@@ -4,7 +4,7 @@
 		<title>Formulario</title>
 	</head>
 	<body>
-		<script src="js/jquery-3.6.0.js"></script>
+		<script src="js/jquery-3.4.1.min.js"></script>
 		<script src="js/jquery.validation.min.js"></script>
 		<script src="js/ajax.js"></script
 
